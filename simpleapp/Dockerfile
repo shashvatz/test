@@ -1,4 +1,4 @@
-FROM ubi8/ubi
+FROM centos7:latest
 MAINTAINER Sander van Vugt <mail@sandervanvugt.nl>
 
 # mandatory K8S labels
