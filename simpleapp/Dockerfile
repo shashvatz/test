@@ -1,4 +1,4 @@
-FROM centos7:latest
+FROM registry.access.redhat.com/ubi8
 MAINTAINER Sander van Vugt <mail@sandervanvugt.nl>
 
 # mandatory K8S labels
